@@ -3,7 +3,7 @@
 Meu nome é Manu
 
  - Estou estudando no [ALURA](https://www.alura.com.br/)
- - estou me desenvolvendo na linguagem javascript
+ - estou me desenvolvendo na linguagem javascript e python
  - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
    
  ### entrar em contato comigo 📷
