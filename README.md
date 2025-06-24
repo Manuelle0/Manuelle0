@@ -1,6 +1,6 @@
 ### esse é meu perfil 🌙
 
-Meu nome é Manu
+Meu nome é Emanuelle
 
  - Estou estudando no [ALURA](https://www.alura.com.br/)
  - estou me desenvolvendo na linguagem javascript e python
